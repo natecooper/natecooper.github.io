@@ -1,0 +1,26 @@
+   /* p {
+            font-family:'Times New Roman', Times, serif;
+        } */
+
+        body {
+            font-family: Helvetica; 
+         }
+ 
+         /* p {
+             font-family: Helvetica;
+         }   */
+ 
+         section {
+             font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+             border: solid thin green;
+         }
+ 
+         .spicy {
+             border: solid thin yellow;
+             color: red;
+         }
+ 
+         .site-title {
+             color: Gray;
+             font-size: 3em;
+         }
